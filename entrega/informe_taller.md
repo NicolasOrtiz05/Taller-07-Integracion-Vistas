@@ -94,14 +94,22 @@ El modelo refleja adecuadamente la operación del área de Adquisiciones, incluy
 
 ## 🔍 Investigación complementaria
 ### Tema investigado:
-(Ej: Buenas prácticas BPMN, comparación TOGAF vs C4, principios de seguridad STRIDE, etc.)
+Ejemplos reales de documentación de vistas
 
 ### Resumen:
-Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario. Incluya cómo se relaciona con el taller.
+La revisión de casos reales de arquitectura empresarial evidencia que múltiples organizaciones utilizan documentación basada en vistas para modelar su ecosistema tecnológico de forma estructurada. Empresas como General Motors han desarrollado vistas compuestas que integran capas de negocio, información, aplicaciones y tecnología, con el fin de alinear capacidades estratégicas con su arquitectura TI corporativa. Este enfoque permite visualizar relaciones entre procesos y sistemas, facilitando la toma de decisiones sobre modernización e interoperabilidad. De manera similar, en el sector industrial, ACTIA Automotive ha implementado mapeos de arquitectura que organizan y relacionan vistas de procesos, aplicaciones e infraestructura para gestionar la complejidad del portafolio tecnológico y mejorar la eficiencia operativa.
+
+En el sector público y en organizaciones de servicios, también se encuentran ejemplos relevantes. La Secretaría de Salud de Carepa (Colombia) ha aplicado el marco TOGAF para documentar vistas de negocio, datos, aplicaciones y tecnología como base para su transformación digital. De igual forma, estudios recientes muestran cómo la arquitectura empresarial puede emplearse para optimizar procesos —como el proceso de ventas— a través de vistas integradas de negocio, información y sistemas. Finalmente, el National Enterprise Architecture Framework (NEAF) del Reino de Bahréin constituye un caso a gran escala donde se documentan vistas institucionales, de datos, aplicaciones, infraestructura y gobernanza, demostrando la aplicabilidad de este tipo de documentación incluso a nivel nacional.
+
+En conjunto, estos casos muestran cómo diferentes sectores utilizan la documentación de vistas arquitectónicas para estructurar su modelo organizacional y tecnológico. La integración de vistas permite comprender mejor la interacción entre procesos, datos, aplicaciones e infraestructura, lo cual es directamente aplicable al taller de FarmApp, donde se requiere representar cómo cada capa soporta los objetivos del negocio y contribuye a la operación integral del ecosistema
 
 ## 📚 Referencias
-- [1] Apellido, Nombre. *Título*. Año. URL o DOI.
-- [2] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
+- [1] EACOE, “Enterprise Architecture Case Studies,” EACOE, General Motors. Disponible en: https://www.eacoe.org/enterprise-architecture-case-studies/
+- [2] My-Carto, “IT Landscape Mapping at Actia Automotive,” My-Carto Case Studies, 2023. Disponible en: https://my-carto.com/en/case-studies/case-study-it-landscape-mapping-at-actia-automotive/
+- [3] M. Lemus, “Arquitectura Empresarial para la Secretaría de Salud del Municipio de Carepa,” Universidad Nacional Abierta y a Distancia (UNAD), 2021. Disponible en: https://repository.unad.edu.co/bitstream/handle/10596/43392/mdlemush.pdf
+- [4] C. G. Arango and A. D. Coleman, “Modelo de Arquitectura Empresarial basado en TOGAF para una empresa del sector transporte,” Universidad Privada del Norte, 2022. Disponible en: https://repositorio.upn.edu.pe/bitstream/handle/11537/33367/Arango%20Melgar%2C%20Carlos%20Gabriel%20-%20Coleman%20Caceres%2C%20Aylen%20Daiana.pdf
+- [5] P. Ribeiro et al., “Enterprise Architecture to Optimize the Sales Process,” in Proceedings of the 19th International Conference on Enterprise Information Systems, SCITEPRESS, 2024. Disponible en: https://www.scitepress.org/Papers/2024/129285/129285.pdf
+- [6] A. Alkhalifa, “National Enterprise Architecture Framework: Case Study of EA Development in the Kingdom of Bahrain,” ResearchGate, 2016. Disponible en: https://www.researchgate.net/publication/293298773_National_Enterprise_Architecture_Framework_Case_Study_of_EA_Development_Experience_in_the_Kingdom_of_Bahrain
 
 ---
 
