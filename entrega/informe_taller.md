@@ -101,8 +101,6 @@ La revisión de casos reales de arquitectura empresarial evidencia que múltiple
 
 En el sector público y en organizaciones de servicios, también se encuentran ejemplos relevantes. La Secretaría de Salud de Carepa (Colombia) ha aplicado el marco TOGAF para documentar vistas de negocio, datos, aplicaciones y tecnología como base para su transformación digital. De igual forma, estudios recientes muestran cómo la arquitectura empresarial puede emplearse para optimizar procesos —como el proceso de ventas— a través de vistas integradas de negocio, información y sistemas. Finalmente, el National Enterprise Architecture Framework (NEAF) del Reino de Bahréin constituye un caso a gran escala donde se documentan vistas institucionales, de datos, aplicaciones, infraestructura y gobernanza, demostrando la aplicabilidad de este tipo de documentación incluso a nivel nacional.
 
-En conjunto, estos casos muestran cómo diferentes sectores utilizan la documentación de vistas arquitectónicas para estructurar su modelo organizacional y tecnológico. La integración de vistas permite comprender mejor la interacción entre procesos, datos, aplicaciones e infraestructura, lo cual es directamente aplicable al taller de FarmApp, donde se requiere representar cómo cada capa soporta los objetivos del negocio y contribuye a la operación integral del ecosistema
-
 ## 📚 Referencias
 - [1] EACOE, “Enterprise Architecture Case Studies,” EACOE, General Motors. Disponible en: https://www.eacoe.org/enterprise-architecture-case-studies/
 - [2] My-Carto, “IT Landscape Mapping at Actia Automotive,” My-Carto Case Studies, 2023. Disponible en: https://my-carto.com/en/case-studies/case-study-it-landscape-mapping-at-actia-automotive/
