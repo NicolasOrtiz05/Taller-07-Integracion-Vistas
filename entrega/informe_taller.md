@@ -66,7 +66,7 @@ El modelo refleja adecuadamente la operación del área de Adquisiciones, incluy
 
 # 📈 Diagrama final entregado
 
-![Diagrama vistas](viatas-integrada.png)
+![Diagrama vistas](vistas-integrada.png)
 
 ---
 
