@@ -4,11 +4,10 @@ Este archivo contiene las fuentes consultadas para el desarrollo del taller, tan
 
 ## 🔖 Taller
 _Taller 7 - Integración Vistas
+
 ---
 
-## 📚 Referencias utilizadas
-
-## 📚 Referencias
+## 📚 Referencias utlizadas
 - [1] EACOE, “Enterprise Architecture Case Studies,” EACOE, General Motors. Disponible en: https://www.eacoe.org/enterprise-architecture-case-studies/
 - [2] My-Carto, “IT Landscape Mapping at Actia Automotive,” My-Carto Case Studies, 2023. Disponible en: https://my-carto.com/en/case-studies/case-study-it-landscape-mapping-at-actia-automotive/
 - [3] M. Lemus, “Arquitectura Empresarial para la Secretaría de Salud del Municipio de Carepa,” Universidad Nacional Abierta y a Distancia (UNAD), 2021. Disponible en: https://repository.unad.edu.co/bitstream/handle/10596/43392/mdlemush.pdf
